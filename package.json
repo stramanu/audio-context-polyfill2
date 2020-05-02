@@ -1,0 +1,26 @@
+{
+  "name": "audio-context-polyfill2",
+  "version": "1.0.0",
+  "description": "AudioContext / BaseAudioContext polyfill",
+  "main": "./dist/audio-context-polyfill2.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stramanu/audio-context-polyfill2.git"
+  },
+  "keywords": [
+    "audio-context-polyfill2",
+    "AudioContext",
+    "BaseAudioContext",
+    "polyfill"
+  ],
+  "author": "Emanuele Strazzullo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stramanu/audio-context-polyfill2/issues"
+  },
+  "homepage": "https://github.com/stramanu/audio-context-polyfill2#readme"
+}
