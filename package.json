@@ -1,6 +1,6 @@
 {
   "name": "audio-context-polyfill2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AudioContext / BaseAudioContext polyfill",
   "main": "./dist/audio-context-polyfill2.js",
   "scripts": {

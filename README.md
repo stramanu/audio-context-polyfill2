@@ -1,5 +1,6 @@
 # AudioContext / BaseAudioContext Polyfill
 [![Build Status](http://img.shields.io/travis/stramanu/audio-context-polyfill2.svg?style=flat-square)](https://travis-ci.org/stramanu/audio-context-polyfill2)
+[![NPM Version](http://img.shields.io/npm/v/audio-context-polyfill2.svg?style=flat-square)](https://www.npmjs.org/package/audio-context-polyfill2)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://stramanu.mit-license.org/)
 
 ## Usage
